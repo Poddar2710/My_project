@@ -1,8 +1,8 @@
-# 🌾 AgriNova – Smart Farming Assistant
+# 🌾 Krishimitra – Smart Farming Assistant
 
 **AgriNova** is a smart farming web application designed to assist farmers and agri-enthusiasts by integrating Deep Learning and data-driven solutions. It provides intelligent support for identifying plant diseases, choosing the right crops and fertilizers, and offering real-time action advice based on weather conditions.
 
-🔗 **Live Demo: https://agrinova.streamlit.app/
+
 
 ---
 
@@ -66,8 +66,8 @@
 ## 📦 Installation & Run Locally
 
 ```bash
-git clone https://github.com/abhishek786216/agrinova.git
-cd agrinova
+git clone https://github.com/Po/agrinova.git
+cd krishimitra
 pip install -r requirements.txt
 streamlit run app.py
 
