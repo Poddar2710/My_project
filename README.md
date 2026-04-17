@@ -66,7 +66,7 @@
 ## 📦 Installation & Run Locally
 
 ```bash
-git clone https://github.com/Po/agrinova.git
+git clone https://github.com/Poddar2710/My_project.git
 cd krishimitra
 pip install -r requirements.txt
 streamlit run app.py
